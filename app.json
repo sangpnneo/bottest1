@@ -1,0 +1,18 @@
+{
+  "name": "bottest1",
+  "description": "test 1",
+  "scripts": {
+    "postdeploy": "Post deploy script 1",
+    "pr-predestroy": "Review app pre-destroy script 1"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
